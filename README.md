@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flask To-Do List App
 
 Hey! 
@@ -110,3 +111,7 @@ I plan to improve this project and explore more backend concepts as I continue l
 ---
 
 *Built with Python and Flask as my first step into backend development. *
+=======
+# Flask-ToDo-List
+Flask-based To-Do List Application
+>>>>>>> aecc1dbe004e15499e15ff6716a57c5cacb7ef35
